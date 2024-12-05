@@ -17,7 +17,7 @@ void setup() {
 }
 
 void loop() {
-  for (int i = 15; i <= 180; i++) {
+  for (int i = 0; i <= 180; i++) {
     myServo.write(i);        
     delay(30);              
     distancia = calculardistancia();  
@@ -33,7 +33,7 @@ void loop() {
       tone(5, 200, 100);
     }
   }
-  for (int i = 180; i > 15; i--) {
+  for (int i = 180; i > 0; i--) {
     myServo.write(i);          
     delay(30);                
     distancia = calculardistancia();  
