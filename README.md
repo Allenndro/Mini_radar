@@ -7,4 +7,4 @@ integrantes: Alejandro Alarcon, Dayanna Vila, Felipe Luchetta, Thiago Arrellano
 
 Materia: Proyecto Informatico
 
-Año y Divisin: 4°1
+Año y Division: 4°1
